@@ -3,6 +3,6 @@
 <h3>16 anos</h3>
 <h4>Gosto de jogar basketball🏀</h4>
 <a href="https://www.linkedin.com/in/dymas-pietro-santos-soares-b96651292">Visite meu perfil do Linkedin</a>
-![Berserk](https://w.wallhaven.cc/full/qz/wallhaven-qzmzpd.jpg)
+![Fundo de seção](https://w.wallhaven.cc/full/qz/wallhaven-qzmzpd.jpg)
 
 
