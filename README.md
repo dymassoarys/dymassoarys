@@ -3,7 +3,7 @@
 <h2>Estudante de Fron-End no Senai Roberto Simonsen</h2>
 <h3>16 anos</h3>
 <h4>Gosto de jogar basketball🏀</h4>
-<img src="https://th.bing.com/th/id/OIP.Cn9SAHCmTy8MEaixr8bqpAHaHa?rs=1&pid=ImgDetMain"</img> <a href="https://www.linkedin.com/in/dymas-pietro-santos-soares-b96651292">Visite meu perfil do Linkedin</a>
+<img src="https://th.bing.com/th/id/OIP.Cn9SAHCmTy8MEaixr8bqpAHaHa?rs=1&pid=ImgDetMain" wight="25" height="25"</img> <a href="https://www.linkedin.com/in/dymas-pietro-santos-soares-b96651292">Visite meu perfil do Linkedin</a>
 
 
 
