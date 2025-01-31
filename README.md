@@ -4,7 +4,7 @@
 <h3>16 anos</h3>
 <h4>Gosto de jogar basketball🏀</h4>
 <a href="https://www.linkedin.com/in/dymas-pietro-santos-soares-b96651292"><img src="https://freepnglogo.com/images/all_img/1715491541linkedin-logo-transparent.png" style="margin-right: 20px;" width="25" height="25" /></a>
-<a href="mailto:dymassoarys@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" style="margin-left: 20px;" width="25" height="25" /><a></a>
+<a href="mailto:dymassoarys@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" style="margin-left: 20px;" width="25" height="25" /></a>
 
 
 
